@@ -1,1 +1,1 @@
-# Quarter4_FA2
+Currently in this assessment, FA 4, I was able to implement my learnings from LG 12.2. Though, I had to search and learn the "value property" using the interent. With all my learnings and observations, I was able to make a multiplication table.
